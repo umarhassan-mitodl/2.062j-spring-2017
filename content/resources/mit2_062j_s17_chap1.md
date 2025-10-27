@@ -4,8 +4,6 @@ description: Lecture notes on sample wave problems.
 file: /courses/2-062j-wave-propagation-spring-2017/2f9f71f7f386b36c9c42f48c03aecfe6_MIT2_062J_S17_Chap1.pdf
 file_size: 278814
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

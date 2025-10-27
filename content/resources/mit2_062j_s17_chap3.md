@@ -4,8 +4,6 @@ description: ''
 file: /courses/2-062j-wave-propagation-spring-2017/76f759325a67ca2f4e418527d5d1e04c_MIT2_062J_S17_Chap3.pdf
 file_size: 2211732
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

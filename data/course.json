@@ -48,7 +48,6 @@
     "website": "2-062j-wave-propagation-spring-2017"
   },
   "course_title": "Wave Propagation",
-  "hide_download": true,
   "course_description": "This course discusses theoretical concepts and analysis of wave problems in science and engineering. Examples are chosen from elasticity, acoustics, geophysics, hydrodynamics, blood flow, nondestructive evaluation, and other applications.\n",
   "department_numbers": [
     "2",
@@ -61,7 +60,6 @@
     "content": "7db8e96a-21a1-feb0-bcce-5f5a5ef9939d",
     "website": "2-062j-wave-propagation-spring-2017"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Exams"
